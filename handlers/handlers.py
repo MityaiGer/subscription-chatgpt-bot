@@ -159,7 +159,7 @@ async def subscr_callback_handler(call: types.callback_query, **kwargs):
     
     
     quickpay = Quickpay(
-        receiver='4100118131745988',
+        receiver='0000000000000',
         quickpay_form='shop',
         targets='ChatGPT',
         paymentType='SB',
