@@ -28,7 +28,7 @@ Telegram бот с интеграцией ChatGPT и системой платн
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/subscription-chatgpt-bot.git
+git clone https://github.com/MityaiGer/subscription-chatgpt-bot
 cd subscription-chatgpt-bot
 ```
 
